@@ -1,0 +1,14 @@
+D:\phuong.DTPM\bin\Debug\net8.0\phuong.DTPM.exe
+D:\phuong.DTPM\bin\Debug\net8.0\phuong.DTPM.deps.json
+D:\phuong.DTPM\bin\Debug\net8.0\phuong.DTPM.runtimeconfig.json
+D:\phuong.DTPM\bin\Debug\net8.0\phuong.DTPM.dll
+D:\phuong.DTPM\bin\Debug\net8.0\phuong.DTPM.pdb
+D:\phuong.DTPM\obj\Debug\net8.0\phuong.DTPM.GeneratedMSBuildEditorConfig.editorconfig
+D:\phuong.DTPM\obj\Debug\net8.0\phuong.DTPM.AssemblyInfoInputs.cache
+D:\phuong.DTPM\obj\Debug\net8.0\phuong.DTPM.AssemblyInfo.cs
+D:\phuong.DTPM\obj\Debug\net8.0\phuong.DTPM.csproj.CoreCompileInputs.cache
+D:\phuong.DTPM\obj\Debug\net8.0\phuong.DTPM.dll
+D:\phuong.DTPM\obj\Debug\net8.0\refint\phuong.DTPM.dll
+D:\phuong.DTPM\obj\Debug\net8.0\phuong.DTPM.pdb
+D:\phuong.DTPM\obj\Debug\net8.0\phuong.DTPM.genruntimeconfig.cache
+D:\phuong.DTPM\obj\Debug\net8.0\ref\phuong.DTPM.dll
